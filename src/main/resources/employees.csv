@@ -1,0 +1,16 @@
+id|name|department|designation|skills
+E001|Alice Johnson|Engineering|Senior Java Developer|Java;Spring Boot;Microservices;AWS
+E002|Bob Smith|Engineering|Machine Learning Engineer|Python;TensorFlow;PyTorch;SQL;AWS;Machine Learning
+E003|Carol Davis|Data|Data Scientist|Python;SQL;Pandas;Machine Learning;Statistics
+E004|David Lee|Engineering|Frontend Developer|JavaScript;React;TypeScript;CSS;HTML
+E005|Emma Wilson|Product|Product Manager|Agile;Jira;Roadmapping;Stakeholder Management;SQL
+E006|Frank Brown|Data|Data Engineer|Python;Spark;Kafka;SQL;Airflow
+E007|Grace Kim|Design|UX Designer|Figma;Sketch;User Research;Prototyping;HTML;CSS
+E008|Henry Patel|Engineering|DevOps Engineer|Kubernetes;Docker;AWS;CI/CD;Terraform
+E009|Ivy Chen|Marketing|Digital Marketing Specialist|SEO;SEM;Google Analytics;Content Marketing
+E010|Jack Miller|Sales|Account Executive|CRM;Negotiation;Salesforce;B2B;Lead Generation
+E011|Karen White|HR|HR Business Partner|Recruiting;Onboarding;Employee Relations;HRIS
+E012|Liam Garcia|Finance|Financial Analyst|Excel;SQL;Budgeting;Forecasting;Tableau
+E013|Mia Rodriguez|Engineering|Backend Developer|Java;Spring;Hibernate;REST API;MySQL
+E014|Noah Thompson|Engineering|QA Engineer|Java;Selenium;TestNG;API Testing;JIRA
+E015|Olivia Davis|Product|Scrum Master|Agile;Scrum;Jira;Confluence;Retrospectives
